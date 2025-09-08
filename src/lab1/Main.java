@@ -4,6 +4,8 @@ public class Main {
         String[] argument = {};
         FizzBuzz.main(argument);
         //FizzBuzz.doFizzBuzz(5);
+
+        //here is a small edit of the file
     }
 
 }
